@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e7c60505684bee4b9d684c2e75e5032, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CarController
-  carData: {fileID: 0}
+  carData: {fileID: 11400000, guid: 6f19db01f76ff7a409ddd872ba07e54b, type: 2}
 --- !u!50 &78764070
 Rigidbody2D:
   serializedVersion: 5
@@ -167,7 +167,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
